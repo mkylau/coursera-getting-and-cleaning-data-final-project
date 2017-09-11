@@ -7,6 +7,9 @@ Final Course Project of Getting and Cleaning Data Course
 1) Downloads data file
 2) Unzips into working directory
 3) completes the required transformation through the 5 steps indicated below
+4) Rename variables with readable names using description in codebook
+5) combine all data with subject info and activity info
+6) output into .txt file
 
 
 ## Instructions from the project description, requirements:
